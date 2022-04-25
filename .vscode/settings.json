@@ -1,0 +1,7 @@
+{
+  "editor.wordWrap": "off",
+  "editor.wordWrapColumn": 80,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "editor.wrappingIndent": "same"
+}
