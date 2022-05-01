@@ -15,6 +15,9 @@
 body {
   font-family: 'Roboto', Tahoma, sans-serif;
   color: #212121;
+  /* position: relative;
+  width: 1600px;
+  height: 2931px; */
 }
 
 p,
@@ -331,6 +334,7 @@ img {
 .masters-soc-link {
   width: 44px;
   height: 44px;
+  background-color: #ffffff;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -350,6 +354,18 @@ img {
 /* .masters-soc-link:hover .masters-soc-icon {
   background-color: #ffffff;
 } */
+
+/* ------------ CLIENTS ------------- */
+
+.clients {
+  background-color: #ffffff;
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+.clients-title {
+  margin-bottom: 50px;
+}
 
 /* ------------- FOOTER ------------- */
 .footer {

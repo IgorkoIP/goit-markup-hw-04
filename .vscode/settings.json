@@ -3,5 +3,6 @@
   "editor.wordWrapColumn": 80,
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
-  "editor.wrappingIndent": "same"
+  "editor.wrappingIndent": "same",
+  "prettier.proseWrap": "preserve"
 }
