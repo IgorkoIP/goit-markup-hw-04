@@ -161,17 +161,16 @@ img {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
   color: #757575;
 }
 
 .header-connect-link:hover,
-.header-connect-link:focus {
-  color: var(--accent-color);
-}
-
+.header-connect-link:focus,
 .header-connect-icon:hover,
 .header-connect-icon:focus {
-  fill: var(--accent-color);
+  color: var(--accent-color);
 }
 
 /* ------------- HERO ------------- */
