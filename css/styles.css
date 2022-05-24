@@ -403,11 +403,13 @@ img {
 .clients-soc-item {
   width: 170px;
   height: 92px;
-  background-color: tomato;
+  /* background-color: #e5e5e5; */
+  border: 1px solid #afb1b8;
   border-radius: 4px;
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #afb1b8;
 }
 
 .clients-soc-icon {
@@ -416,7 +418,7 @@ img {
 
 .clients-soc-item:hover,
 .clients-soc-item:focus {
-  background-color: #2196f3;
+  fill: #2196f3;
 }
 
 /* ------------- FOOTER ------------- */
