@@ -247,6 +247,7 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--second-title-color);
+  margin-top: 30px;
   margin-bottom: 10px;
 }
 
@@ -265,6 +266,16 @@ img {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--text-color);
+}
+
+.about-soc-link {
+  width: 270px;
+  height: 120px;
+  background-color: #f5f4fa;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ------------- GALLERY ------------- */
