@@ -152,10 +152,8 @@ img {
 }
 
 .header-connect-icon {
-  justify-content: center;
-  align-items: center;
   margin-right: 10px;
-  fill: #757575;
+  fill: currentColor;
 }
 
 .header-connect-link {
