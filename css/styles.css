@@ -435,6 +435,10 @@ img {
   color: #ffffff;
 }
 
+/* .footer-contaction {
+  display: flex;
+} */
+
 .footer-item:not(:last-child) {
   margin-bottom: 9px;
 }
