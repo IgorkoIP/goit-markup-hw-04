@@ -442,9 +442,9 @@ img {
   color: #ffffff;
 }
 
-/* .footer-contaction {
+.footer-contaction {
   display: flex;
-} */
+}
 
 .footer-item:not(:last-child) {
   margin-bottom: 9px;
@@ -476,6 +476,11 @@ img {
 .footer-mail:focus,
 .footer-tel:focus {
   color: var(--accent-color);
+}
+
+.footer-conect {
+  margin-top: 72px;
+  margin-left: 70px;
 }
 
 /* ------------- PORTFOLIO ------------- */
